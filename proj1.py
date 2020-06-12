@@ -1,8 +1,5 @@
-# File:        proj1.py
 # Author:      De'Shaunna Scott
 # Date:        11/3/15
-# Section:     29
-# Email:       dscott6@umbc.edu
 # Description: This program will use a series of functions to simulate Conway's Game of life with a 2D
 #              matrix
 
